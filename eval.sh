@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 1_script.py --input_file=$1
+python3 eval.py --input_file=$1
